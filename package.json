@@ -1,0 +1,32 @@
+{
+  "name": "underscore-keys",
+  "version": "1.0.0",
+  "description": "Prefix object keys with _",
+  "main": "./src",
+  "scripts": {
+    "test": "standard && tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/underscore-keys.git"
+  },
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/underscore-keys/issues"
+  },
+  "homepage": "https://github.com/bendrucker/underscore-keys#readme",
+  "keywords": [
+    "underscore",
+    "object",
+    "keys",
+    "private"
+  ],
+  "devDependencies": {
+    "standard": "~3.7.0",
+    "tape": "~4.0.0"
+  },
+  "dependencies": {
+    "map-obj": "~1.0.0"
+  }
+}
