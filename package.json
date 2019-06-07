@@ -27,6 +27,6 @@
     "tape": "~4.10.0"
   },
   "dependencies": {
-    "map-obj": "~3.1.0"
+    "map-obj": "~4.0.0"
   }
 }
