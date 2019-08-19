@@ -23,7 +23,7 @@
     "private"
   ],
   "devDependencies": {
-    "standard": "~13.1.0",
+    "standard": "~14.0.0",
     "tape": "~4.10.0"
   },
   "dependencies": {
